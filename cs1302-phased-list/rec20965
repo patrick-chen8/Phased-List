@@ -1,0 +1,144 @@
+cs1302-phased-list:
+total 396
+drwxr-xr-x. 3 myid     28 Mar 14 22:51 bin
+drwxr-xr-x. 5 myid   4096 Mar 14 23:14 doc
+-rw-r--r--. 1 myid   3745 Mar 10 00:29 phase1.jar
+-rw-r--r--. 1 myid 346395 Mar  7 18:32 phase1.png
+-rw-r--r--. 1 myid  45181 Mar 10 00:29 README.md
+-rw-r--r--. 1 myid      0 Mar 14 23:20 rec20965
+drwxr-xr-x. 2 myid     44 Mar 14 22:15 reports
+drwxr-xr-x. 3 myid     28 Mar  7 18:37 src
+
+cs1302-phased-list/bin:
+total 0
+drwxr-xr-x. 3 myid 24 Mar 14 22:51 cs1302
+
+cs1302-phased-list/bin/cs1302:
+total 0
+drwxr-xr-x. 2 myid 133 Mar 14 22:51 p2
+
+cs1302-phased-list/bin/cs1302/p2:
+total 20
+-rw-r--r--. 1 myid 2071 Mar 14 22:51 ArrayStringList.class
+-rw-r--r--. 1 myid 1866 Mar 14 22:51 BaseStringList.class
+-rw-r--r--. 1 myid 4964 Mar 14 22:51 Driver.class
+-rw-r--r--. 1 myid 2126 Mar 14 22:51 LinkedStringList.class
+
+cs1302-phased-list/doc:
+total 160
+-rw-r--r--. 1 myid  1409 Mar 14 23:14 allclasses.html
+-rw-r--r--. 1 myid  5855 Mar 14 23:14 allclasses-index.html
+-rw-r--r--. 1 myid  4782 Mar 14 23:14 allpackages-index.html
+-rw-r--r--. 1 myid  4375 Mar 14 23:14 constant-values.html
+drwxr-xr-x. 3 myid    24 Mar 14 23:14 cs1302
+-rw-r--r--. 1 myid  4290 Mar 14 23:14 deprecated-list.html
+-rw-r--r--. 1 myid    10 Mar 14 23:14 element-list
+-rw-r--r--. 1 myid  9256 Mar 14 23:14 help-doc.html
+-rw-r--r--. 1 myid 18223 Mar 14 23:14 index-all.html
+-rw-r--r--. 1 myid   787 Mar 14 23:14 index.html
+drwxr-xr-x. 6 myid  4096 Mar 14 23:14 jquery
+-rw-r--r--. 1 myid  2927 Mar 14 23:14 member-search-index.js
+-rw-r--r--. 1 myid   563 Mar 14 23:14 member-search-index.zip
+-rw-r--r--. 1 myid  5134 Mar 14 23:14 overview-tree.html
+-rw-r--r--. 1 myid    92 Mar 14 23:14 package-search-index.js
+-rw-r--r--. 1 myid   225 Mar 14 23:14 package-search-index.zip
+drwxr-xr-x. 2 myid    48 Mar 14 23:14 resources
+-rw-r--r--. 1 myid  5043 Mar 14 23:14 script.js
+-rw-r--r--. 1 myid 12302 Mar 14 23:14 search.js
+-rw-r--r--. 1 myid 22271 Mar 14 23:14 stylesheet.css
+-rw-r--r--. 1 myid   220 Mar 14 23:14 type-search-index.js
+-rw-r--r--. 1 myid   262 Mar 14 23:14 type-search-index.zip
+
+cs1302-phased-list/doc/cs1302:
+total 0
+drwxr-xr-x. 2 myid 190 Mar 14 23:14 p2
+
+cs1302-phased-list/doc/cs1302/p2:
+total 84
+-rw-r--r--. 1 myid 13781 Mar 14 23:14 ArrayStringList.html
+-rw-r--r--. 1 myid 15800 Mar 14 23:14 BaseStringList.html
+-rw-r--r--. 1 myid 18910 Mar 14 23:14 Driver.html
+-rw-r--r--. 1 myid 13709 Mar 14 23:14 LinkedStringList.html
+-rw-r--r--. 1 myid  5822 Mar 14 23:14 package-summary.html
+-rw-r--r--. 1 myid  5134 Mar 14 23:14 package-tree.html
+
+cs1302-phased-list/doc/jquery:
+total 440
+drwxr-xr-x. 3 myid     28 Mar 14 23:14 external
+drwxr-xr-x. 2 myid   4096 Mar 14 23:14 images
+-rw-r--r--. 1 myid 287630 Mar 14 23:14 jquery-3.5.1.js
+-rw-r--r--. 1 myid  20275 Mar 14 23:14 jquery-ui.css
+-rw-r--r--. 1 myid  71563 Mar 14 23:14 jquery-ui.js
+-rw-r--r--. 1 myid  17416 Mar 14 23:14 jquery-ui.min.css
+-rw-r--r--. 1 myid  32162 Mar 14 23:14 jquery-ui.min.js
+-rw-r--r--. 1 myid   2555 Mar 14 23:14 jquery-ui.structure.css
+-rw-r--r--. 1 myid   1787 Mar 14 23:14 jquery-ui.structure.min.css
+drwxr-xr-x. 3 myid     18 Mar 14 23:14 jszip
+drwxr-xr-x. 3 myid     26 Mar 14 23:14 jszip-utils
+
+cs1302-phased-list/doc/jquery/external:
+total 0
+drwxr-xr-x. 2 myid 31 Mar 14 23:14 jquery
+
+cs1302-phased-list/doc/jquery/external/jquery:
+total 276
+-rw-r--r--. 1 myid 280363 Mar 14 23:14 jquery.js
+
+cs1302-phased-list/doc/jquery/images:
+total 64
+-rw-r--r--. 1 myid  335 Mar 14 23:14 ui-bg_glass_55_fbf9ee_1x400.png
+-rw-r--r--. 1 myid  262 Mar 14 23:14 ui-bg_glass_65_dadada_1x400.png
+-rw-r--r--. 1 myid  262 Mar 14 23:14 ui-bg_glass_75_dadada_1x400.png
+-rw-r--r--. 1 myid  262 Mar 14 23:14 ui-bg_glass_75_e6e6e6_1x400.png
+-rw-r--r--. 1 myid  332 Mar 14 23:14 ui-bg_glass_95_fef1ec_1x400.png
+-rw-r--r--. 1 myid  280 Mar 14 23:14 ui-bg_highlight-soft_75_cccccc_1x100.png
+-rw-r--r--. 1 myid 6922 Mar 14 23:14 ui-icons_222222_256x240.png
+-rw-r--r--. 1 myid 4549 Mar 14 23:14 ui-icons_2e83ff_256x240.png
+-rw-r--r--. 1 myid 6992 Mar 14 23:14 ui-icons_454545_256x240.png
+-rw-r--r--. 1 myid 6999 Mar 14 23:14 ui-icons_888888_256x240.png
+-rw-r--r--. 1 myid 4549 Mar 14 23:14 ui-icons_cd0a0a_256x240.png
+
+cs1302-phased-list/doc/jquery/jszip:
+total 0
+drwxr-xr-x. 2 myid 54 Mar 14 23:14 dist
+
+cs1302-phased-list/doc/jquery/jszip/dist:
+total 456
+-rw-r--r--. 1 myid 366227 Mar 14 23:14 jszip.js
+-rw-r--r--. 1 myid  95827 Mar 14 23:14 jszip.min.js
+
+cs1302-phased-list/doc/jquery/jszip-utils:
+total 0
+drwxr-xr-x. 2 myid 128 Mar 14 23:14 dist
+
+cs1302-phased-list/doc/jquery/jszip-utils/dist:
+total 20
+-rw-r--r--. 1 myid 2444 Mar 14 23:14 jszip-utils-ie.js
+-rw-r--r--. 1 myid 1610 Mar 14 23:14 jszip-utils-ie.min.js
+-rw-r--r--. 1 myid 4483 Mar 14 23:14 jszip-utils.js
+-rw-r--r--. 1 myid 1777 Mar 14 23:14 jszip-utils.min.js
+
+cs1302-phased-list/doc/resources:
+total 8
+-rw-r--r--. 1 myid 499 Mar 14 23:14 glass.png
+-rw-r--r--. 1 myid 394 Mar 14 23:14 x.png
+
+cs1302-phased-list/reports:
+total 52
+-rw-r--r--. 1 myid 51819 Mar 14 23:19 TEST-junit-jupiter.xml
+
+cs1302-phased-list/src:
+total 0
+drwxr-xr-x. 3 myid 24 Mar  7 18:37 cs1302
+
+cs1302-phased-list/src/cs1302:
+total 0
+drwxr-xr-x. 2 myid 129 Mar 14 23:11 p2
+
+cs1302-phased-list/src/cs1302/p2:
+total 28
+-rw-r--r--. 1 myid 4398 Mar 14 23:06 ArrayStringList.java
+-rw-r--r--. 1 myid 2471 Mar 14 23:11 BaseStringList.java
+-rw-r--r--. 1 myid 8068 Mar 14 22:10 Driver.java
+-rw-r--r--. 1 myid 4396 Mar 14 23:11 LinkedStringList.java
+/home/myid/pgc19941/cs1302-phased-list:/home/myid/csci-1302
